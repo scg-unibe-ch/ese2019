@@ -23,7 +23,7 @@ The final grade will be composed from 60% exam + 40% project.
 
 # Project 
 
-This year we will build **Event Management Platform** as a hybrid application.
+This year we will build **Event Management Platform** as a [hybrid application](https://ionicframework.com/resources/articles/what-is-hybrid-app-development).
 On this platform several types of service providers such as Venue owners, Photographers, Caterers can register their services.
 Other registered users, in turn, can search for desired services required for their event, select the ones they wish to book, and add those to the cart or a personal event planner.
 We, the course assitants (total 4) will act as **clients** and students will act as **developers**. 
