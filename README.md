@@ -23,13 +23,16 @@ The final grade will be composed from 60% exam + 40% project.
 
 # Project 
 
-This year we will build a '*Sample project*' as a web application.... We, the course assitants (total 4) will act as **clients** and students will act as **developers**. 
+This year we will build **Event Management Platform** as a hybrid application.
+On this platform several types of service providers such as Venue owners, Photographers, Caterers can register their services.
+Other registered users, in turn, can search for desired services required for their event, select the ones they wish to book, and add those to the cart or a personal event planner.
+We, the course assitants (total 4) will act as **clients** and students will act as **developers**. 
 
 # Project organization
 
 Students/participants will be divided into small groups (each group will have roughly 3-4 students). Each group will build the software independently. One student from each group will act as a Product Owner (PO), to which we will release the requirements. PO will then describe the reqirements to his/her fellow developers.
 
-The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear concepts, also to start developing. The project will be developed as a series of **features**. Project will have three milestones (see [wiki](https://github.com/scg-unibe-ch/ese2019/wiki)), at each milestone we will evaluate and retrospect the progress made. Total 8 features will be built by students, out of which one will be a surprise feature by students. The team with best surprise feature will win a gift from us!
+The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear the underlying concepts, also to start developing. The project will be developed as a series of **features**. Project will have three milestones (see [wiki](https://github.com/scg-unibe-ch/ese2019/wiki)), at each milestone we will evaluate and retrospect the progress made. Total 4 features will be built by students, out of which one will be a surprise feature by students. The team with best surprise feature will win a gift from us!
 
 # Further information
 Refer [project wiki](https://github.com/scg-unibe-ch/ese2019/wiki) for further information about technologies used, useful presentations, and getting started guide.
